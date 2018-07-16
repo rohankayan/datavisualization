@@ -1,0 +1,11 @@
+ .description {
+font: 16px times-new-roman;
+}
+.viz {
+font: 10px sans-serif;
+} 
+.header{
+	color: green; 
+	font-size:36px; 
+	font-weight:bold;
+}
